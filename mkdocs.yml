@@ -1,0 +1,12 @@
+site_name: Fermented Notes
+
+theme:
+  name: 'material'
+  logo:
+    icon: 'description'
+
+nav:
+    - Home: index.md
+    - Sourdough: sourdough.md
+    - Sauerkraut: sauerkraut.md
+    - Kimchi: kimchi.md
