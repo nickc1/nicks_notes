@@ -1,25 +1,15 @@
 # Sauerkraut
 
 
-## The Starter
+## Tools
+- 1/2 gallon mason jar
+- Sharp knife or mandolin
 
-** Day 1 **
+## Ingredients
+- Two large cabbages
+- 2 Tbsp salt
 
-- 3/4 Cups Organic Whole Wheat Flour
-- 3/4 Cups Organic Rye Flour
-- 1.5 Cups Unchlorinated Water
-
-Mix everything together until it turns into a thick pancake batter. Leave for 24 hours.
-
-** Day 2+ **
-
-- Remove 1 Cup of Starter
-- Add 1/4 Cup of Organic Whole Wheat Flour
-- Add 1/4 Cup of Organic Rye Flour
-
-Leave for 24 hours and repeat until a solid starter has formed.
-
-
-## The Bread
-
-Before making the bread, you must make a starter
+## Directions
+- Cut cabbage into thin stips
+- Add salt and work until a lot of water has been released
+- Put into jars make sure to cover the cabbage.
