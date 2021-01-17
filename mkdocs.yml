@@ -1,16 +1,17 @@
 site_name: Fermented Notes
 
 theme:
-  name: 'material'
-  logo:
-    icon: 'description'
+  name: material
+  icon:
+    logo: material/cloud
 
 nav:
-    - Fermented notes: 'index.md'
-    - Sauerkraut: 'sauerkraut.md'
-    - Sourdough:
-        - Starter: 'sourdough/starter.md'
-        - Bread: 'sourdough/bread.md'
-        - Pizza Crust: 'sourdough/pizza_crust.md'
-        - Crumpets: 'sourdough/crumpets.md'
-        - Banana Pancake Cookies: 'sourdough/banana_pancake_cookies.md'
+  - Fermented notes: 'index.md'
+  - Sauerkraut: 'sauerkraut.md'
+  - Sourdough:
+      - Starter: 'sourdough/starter.md'
+      - Bread: 'sourdough/bread.md'
+      - Pizza Crust: 'sourdough/pizza_crust.md'
+      - Crumpets: 'sourdough/crumpets.md'
+      - Banana Pancake Cookies: 'sourdough/banana_pancake_cookies.md'
+  - Native Plants: 'nativePlants.md'

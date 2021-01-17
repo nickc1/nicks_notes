@@ -1,3 +1,5 @@
-# Fermented Notes
+# Nick's Notes
 
-Notes and videos about fermented foods, sourdough, and cocktails.
+Random notes that aren't about programming or data.
+
+For programming and data check out [https://nickcortale.com/](https://nickcortale.com/).
